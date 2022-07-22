@@ -1,0 +1,22 @@
+#MainMenu {
+    width: 100%;
+}
+
+.list-group-item{
+    color: #080710;
+}
+
+.panel button {
+    background: white;
+    text-align: left;
+}
+
+.panel span {
+    background: #e5e5e5;
+    text-align: left;
+}
+
+.panel span:hover {
+    background: #ffe5eb;
+    text-align: left;
+}
